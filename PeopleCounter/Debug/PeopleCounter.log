@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  cvui.h: compiling implementation because of CVUI_IMPLEMENTATION. See: https://dovyski.github.io/cvui/usage/
+C:\Users\arual\source\repos\PeopleCounter\PeopleCounter\Source.cpp(281,41): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\arual\source\repos\PeopleCounter\PeopleCounter\Source.cpp(287,40): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\arual\source\repos\PeopleCounter\PeopleCounter\Source.cpp(406,12): warning C4101: 'moments': unreferenced local variable
+  PeopleCounter.vcxproj -> C:\Users\arual\source\repos\PeopleCounter\Debug\PeopleCounter.exe
